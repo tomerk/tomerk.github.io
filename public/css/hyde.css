@@ -179,11 +179,22 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-FF .sidebar {
-  background-color: #ac4142;
+  background-color: #3a3a65;
 }
 .theme-base-FF .content a,
 .theme-base-FF .related-posts li a:hover {
-  color: #ac4142;
+  color: #3a3a65;
+}
+
+.sidebar img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    max-height: 260px;
+    border-radius: 25px;
+    background: #FFFFFF;
+    padding: 7px; 
+
 }
 
 .theme-base-08 .sidebar {
