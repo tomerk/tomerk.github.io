@@ -12,7 +12,7 @@ In the past, I dabbled in updating popular video games with better [graphics sha
 
 In my spare time I like to travel, cook, hike, and read literature.
 
-<span>[Curriculum Vitae](public/images/tomer-headshot.png)</span>
+<span>[Curriculum Vitae](public/documents/tomer-cv.pdf)</span>
 
 ## Contact
 
